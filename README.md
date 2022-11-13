@@ -1,4 +1,4 @@
-Node/Express stack used for a little movies/users app with authentication (using argon2)
+Node/Express stack used for a little movies/users app with authentication (using argon2 & JWT)
 
 
 # Setup
